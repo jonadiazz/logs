@@ -1,0 +1,3 @@
+123.125.71.53 - - [08/Mar/2015:07:00:04 -0500] "GET / HTTP/1.1" 200 2614 "-" "Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2"
+107.77.72.26 - - [08/Mar/2015:14:38:28 -0500] "GET /~jtrimm/project/images/basicmethodparityadj.png HTTP/1.1" 200 14437 "http://www.google.com/" "Mozilla/5.0 (Linux; Android 4.4.2; SAMSUNG-SM-G900A Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.109 Mobile Safari/537.36"
+98.23.163.34 - - [08/Mar/2015:16:07:51 -0500] "GET /~dlawson/ HTTP/1.1" 200 838 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0"
